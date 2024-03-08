@@ -1,8 +1,8 @@
 ### Hello world! 
 
-<!--
+I am an Assistant Professor in the Department of Astronomy at Yale University. 
 
-Code repositories for publications: 
+Here are code repositories for some publications: 
 - 📝 [[`blue-supergaints`](https://github.com/earlbellinger/blue-supergiants)]
   - **The Potential of Asteroseismology to Resolve the Blue Supergiant Problem** (2023), submitted to the Astrophysical Journal Letters. 
 - 📝 [[`black-hole-sun`](https://github.com/earlbellinger/black-hole-sun)]
@@ -14,6 +14,7 @@ Code repositories for publications:
 - 📝 [[`bigG`](https://github.com/earlbellinger/bigG)]
   - **Asteroseismic constraints on the cosmic-time variation of the gravitational constant from an ancient main-sequence star** (2019), the Astrophysical Journal Letters. 
 
+<--
 **earlbellinger/earlbellinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
