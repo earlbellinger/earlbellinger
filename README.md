@@ -13,3 +13,6 @@ Here are code repositories for some publications:
   - **When a Period Is Not a Full Stop: Light Curve Structure Reveals Fundamental Parameters of Cepheid and RR Lyrae Stars** (2020), *Monthly Notices of the Royal Astronomical Society*.
 - 📝 [[`bigG`](https://github.com/earlbellinger/bigG)]
   - **Asteroseismic constraints on the cosmic-time variation of the gravitational constant from an ancient main-sequence star** (2019), *the Astrophysical Journal Letters*. 
+- 📝 [[`scaling-giants`](https://github.com/earlbellinger/scaling-giants)]
+  - **A seismic scaling relation for stellar age II: The red giant branch** (2019), *MNRAS Letters*. 
+
