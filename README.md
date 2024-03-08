@@ -4,7 +4,7 @@ I am an Assistant Professor in the Department of Astronomy at Yale University.
 
 Here are code repositories for some publications: 
 - 📝 [[`blue-supergaints`](https://github.com/earlbellinger/blue-supergiants)]
-  - **The Potential of Asteroseismology to Resolve the Blue Supergiant Problem** (2023), submitted to *the Astrophysical Journal Letters*. 
+  - **The Potential of Asteroseismology to Resolve the Blue Supergiant Problem** (2024), submitted to *the Astrophysical Journal Letters*. 
 - 📝 [[`black-hole-sun`](https://github.com/earlbellinger/black-hole-sun)]
   - **Solar evolution models with a central black hole** (2023), *The Astrophysical Journal*. 
 - 📝 [[`solar-nuclear-reactions`](https://github.com/earlbellinger/)]
