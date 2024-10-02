@@ -1,6 +1,6 @@
 ### Hello world! 
 
-I am an Assistant Professor in the Department of Astronomy at Yale University, a member of the Yale Foundations of Data Science Institute, and the group leader of the Yale AstroML (<a href="http://www.astro.yale.edu/bellinger/">YAML</a>) research group. 
+I am an Assistant Professor in the Department of Astronomy at Yale University, a member of the Yale Foundations of Data Science Institute, and the leader of the Yale AstroML (<a href="http://www.astro.yale.edu/bellinger/">YAML</a>) research group. 
 
 Code repositories for some publications: 
 - 📝 [[`blue-supergiants`](https://github.com/earlbellinger/blue-supergiants)] **The Potential of Asteroseismology to Resolve the Blue Supergiant Problem** (2024), submitted to *the Astrophysical Journal Letters*. 
