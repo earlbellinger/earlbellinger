@@ -3,6 +3,7 @@
 I am an Assistant Professor in the Department of Astronomy at Yale University, a member of the Yale Foundations of Data Science Institute, and the leader of the Yale AstroML (<a href="http://www.astro.yale.edu/bellinger/">YAML</a>) research group. 
 
 Code repositories for some publications: 
+- 📝 [[`darkcore`](https://github.com/earlbellinger/darkcore/)] **The Sun's Dark Core: Helioseismic and Neutrino Flux Constraints on a Compact Solar Center** (2025), *The Astrophysical Journal*. 
 - 📝 [[`blue-supergiants`](https://github.com/earlbellinger/blue-supergiants)] **The Potential of Asteroseismology to Resolve the Blue Supergiant Problem** (2024), *The Astrophysical Journal Letters*. 
 - 📝 [[`black-hole-sun`](https://github.com/earlbellinger/black-hole-sun)] **Solar evolution models with a central black hole** (2023), *The Astrophysical Journal*. 
 - 📝 [[`solar-nuclear-reactions`](https://github.com/earlbellinger/)] **Towards solar measurements of nuclear reaction rates** (2022), *Monthly Notices of the Royal Astronomical Society*. 
